@@ -1,0 +1,9 @@
+{
+  "name": "Treino com Vídeos V2",
+  "short_name": "Treino V2",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": []
+}
