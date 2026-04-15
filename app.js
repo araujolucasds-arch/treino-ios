@@ -92,7 +92,7 @@ function progressToday() {
   return Math.round((doneCountToday() / ex.length) * 100);
 }
 function completedWorkoutDaysCount() {
-  var vals = Object.values(state.workoutDays);
+  var vals = Object.keys(state.workoutDays).map(function(k){ return state.workoutDays[k]; });
   var count = 0;
   for (var i = 0; i < vals.length; i++) if (vals[i]) count++;
   return count;
