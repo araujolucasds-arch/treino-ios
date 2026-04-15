@@ -1,9 +1,9 @@
 {
-  "name": "Treino com Vídeos V3",
-  "short_name": "Treino V3",
+  "name": "Treino com Vídeos V5",
+  "short_name": "Treino V5",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f8fafc",
+  "background_color": "#f4f7fb",
   "theme_color": "#0f172a",
   "icons": []
 }
