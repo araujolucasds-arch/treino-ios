@@ -1,9 +1,9 @@
 {
-  "name": "Treino Premium V7",
-  "short_name": "Treino V7",
+  "name": "Transformação Premium V8.1",
+  "short_name": "Transformação V8.1",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#0b0b0f",
-  "theme_color": "#0b0b0f",
+  "background_color": "#f7f5f1",
+  "theme_color": "#f7f5f1",
   "icons": []
 }
