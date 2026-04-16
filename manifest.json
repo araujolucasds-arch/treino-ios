@@ -1,9 +1,25 @@
 {
-  "name": "Transformação Premium V8.1",
-  "short_name": "Transformação V8.1",
+  "name": "Transformação Pessoal",
+  "short_name": "Transformação",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f7f5f1",
   "theme_color": "#f7f5f1",
-  "icons": []
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
 }
